@@ -13,9 +13,18 @@ if ($pos === false) {
 }
 
 $numbers=array(1, 2, 3, 4, 5, 6, 7);
-
 	rsort ($numbers);
 	echo join (", ", $numbers);
+
+
+$string = 'sana sana colita de rana';
+echo strlen($string);
+
+$arreglo = array(' pimpon', 'es', 'un', 'muneco');
+
+  echo implode(' ', $arreglo);
+
+
 
 
 
