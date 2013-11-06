@@ -1,5 +1,7 @@
 <?php
 
+//Homework for week of 11/04 - 11/09
+
 class Car
 {
     private $vehicle_make;
